@@ -11,7 +11,7 @@ public class Classroom extends Room {
         return classroomDescription;
     }
 
-    @Override
+    @Override  // I did this shortcut by alt + insert//
     public String toString() {
         return "Classroom{" +
                 "classroomName='" + classroomName + '\'' +
@@ -25,10 +25,10 @@ public class Classroom extends Room {
     }
 
     public String classroomName;
-    public String classroomDescription;
+    public String classroomDescription; // variables //
 
 
-    Classroom(){}
+    Classroom(){} // default constructors//
 
     Classroom(String classroomName, String classroomDescription) {
         this.classroomName =classroomName;
