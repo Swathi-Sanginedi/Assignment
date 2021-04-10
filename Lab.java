@@ -20,5 +20,6 @@ public class Lab extends Room {
     Lab(int labNumber)
     {
         this.labNumber = labNumber;
+system.out.println("Modified lab file");
     }
 }
