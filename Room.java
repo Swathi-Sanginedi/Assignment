@@ -35,6 +35,7 @@ public class Room {
     public String name;
     public int chairs;
     public int totalChairs;
+    public int tables;
 
     Room(){}
 

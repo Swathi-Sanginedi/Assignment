@@ -35,4 +35,5 @@ public class Classroom extends Room {
         this.classroomDescription=classroomDescription;
 
     }
+    System.out.println("Mary");
 }
