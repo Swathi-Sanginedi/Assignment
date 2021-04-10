@@ -35,6 +35,7 @@ public class Room {
     public String name;
     public int chairs;
     public int totalChairs;
+    public int tables;
 
     Room(){}
 
@@ -42,6 +43,7 @@ public class Room {
         this.name =name;
         this.chairs=chairs;
         this.totalChairs=totalChairs;
+system.out.println("Changes made");
     }
 
 

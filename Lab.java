@@ -8,6 +8,7 @@ public class Lab extends Room {
     }
 
     public int labNumber;
+    int i;
 
     @Override
     public String toString() {
@@ -20,5 +21,6 @@ public class Lab extends Room {
     Lab(int labNumber)
     {
         this.labNumber = labNumber;
+system.out.println("Modified lab file");
     }
 }
