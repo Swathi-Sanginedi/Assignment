@@ -11,6 +11,7 @@ public class Lab extends Room {
 
     public int labNumber;
 
+
     @Override
     public String toString() {
         return "Lab{" +
