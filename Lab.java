@@ -21,5 +21,6 @@ public class Lab extends Room {
     Lab(int labNumber)
     {
         this.labNumber = labNumber;
+        Hello World
     }
 }
