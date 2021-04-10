@@ -8,6 +8,7 @@ public class Lab extends Room {
     }
 
     public int labNumber;
+    int i;
 
     @Override
     public String toString() {
