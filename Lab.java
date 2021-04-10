@@ -1,3 +1,5 @@
+//Team-B-Abhinav
+//santhosh
 public class Lab extends Room {
     public int getLabNumber() {
         return labNumber;
@@ -8,6 +10,7 @@ public class Lab extends Room {
     }
 
     public int labNumber;
+
 
     @Override
     public String toString() {
